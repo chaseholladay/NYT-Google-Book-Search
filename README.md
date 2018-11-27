@@ -5,4 +5,6 @@ A simple Book Search app using React JS and Google Books API
 
 ## Deployed version
 
+https://calm-falls-24903.herokuapp.com/ | https://git.heroku.com/calm-falls-24903.git
+
 https://github.com/chaseholladay/NYT-Google-Book-Search
