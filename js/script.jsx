@@ -39,7 +39,7 @@ var Footer = React.createClass({
     return(
 
       <div className="related">
-        <p>Created by :<a href="https://twitter.com/fethica" style={{color: '#FFF'}} target="_blank">Fethi El Hassasna</a></p>
+        <p>Created by :<a href="https://twitter.com/chaseholladay" style={{color: '#FFF'}} target="_blank">Fethi El Hassasna</a></p>
 				<a href="http://tympanus.net/codrops/2014/01/14/look-inside-book-preview-with-bookblock/" target="_blank">
 					<img src="img/bookpreview.png" />
 					<h3>Book Preview</h3>
