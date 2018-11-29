@@ -1,0 +1,22 @@
+{
+  "name": "NYT-Google-Book-Search",
+  "version": "1.0.0",
+  "description": "A simple Book Search app using React JS and Google Books API",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaseholladay/NYT-Google-Book-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaseholladay/NYT-Google-Book-Search/issues"
+  },
+  "homepage": "https://github.com/chaseholladay/NYT-Google-Book-Search#readme"
+}
