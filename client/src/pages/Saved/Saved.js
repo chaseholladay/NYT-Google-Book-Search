@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import API from "../../utils/API";
 import SavedResult from "../../components/SavedResult";
-import M from "materialize-css/dist/js/materialize.min.js";
-import "materialize-css/dist/css/materialize.min.css";
+// import M from "materialize-css/dist/js/materialize.min.js";
+// import "materialize-css/dist/css/materialize.min.css";
+import M from 'materialize-css';
 
 class SavedBooksContainer extends Component {
     state = {
