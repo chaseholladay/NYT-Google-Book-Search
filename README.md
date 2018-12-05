@@ -1,7 +1,7 @@
 # NYT-Google_Book-Search-React
 A simple Book Search app using React JS and Google Books API
 
-<img src="img of this app" alt="Book Search Preview" />
+<img src="img of this app" alt="NYT Google Book Search Preview" />
 
 ## Deployed version
 
