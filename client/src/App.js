@@ -11,7 +11,8 @@ const App = () => (
   <Router>
     <div>
       <Nav />
-      <img src="https://dollysbookstore.com/wp-content/uploads/2015/12/books-banner.jpg" alt="book banner"></img>
+      <img src="" alt="book banner"></img> 
+      
       <Route exact path="/" component={Search} />
       <Route exact path="/saved" component={Saved} />
       <Footer />
