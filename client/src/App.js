@@ -12,6 +12,13 @@ const App = () => (
     <div>
       <Nav />
       <img src="./TIN-332 Books from_large.jpg" alt="book banner"/>
+      <video controls width="250">
+
+        <source src="./fish.mp4"
+        type="video/mp4"/>
+
+    
+        </video>
       <Route exact path="/" component={Search} />
       <Route exact path="/saved" component={Saved} />
       <Footer />
